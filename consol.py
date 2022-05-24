@@ -1,5 +1,6 @@
 '''Argpars consol'''
 import argparse
+from this import d
 from cryptografer import Cryptografer
 from salt import salt
 
